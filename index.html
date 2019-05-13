@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+        <title>Predict Your Future</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"/>
+        <link rel = "stylesheet" type = "text/css" href = "styles.css"/>
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+        <link rel="manifest" href="/site.webmanifest">
+        <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
+    </head>
+    <body class="text-center">
+        <div class="container">
+            <h1>Ask a question!</h1>
+                <form>
+                    <input id="question" type="text" name="question" value="?"> 
+                    <button type="button" onclick="getPrediction()" class="btn-primary">Get your result!</button>
+                    <br>
+                    <div id="answer">
+                    <input type="text" name="answer" value="">
+                </div>
+            </form>
+        </div>
+        <script src="main.js"></script>
+    </body>
+</html>

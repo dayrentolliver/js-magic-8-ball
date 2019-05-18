@@ -26,3 +26,6 @@ function getPrediction(){
     let predict = Math.floor(Math.random() * (choices.length));
     document.getElementById('answer').value = choices[predict];
 };
+
+/*let prediction = choices[Math.floor(Math.random)*choices.length];
+*/

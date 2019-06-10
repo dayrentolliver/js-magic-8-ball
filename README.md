@@ -12,7 +12,7 @@ Dayren Tolliver
 
 ### How it works:
 1. Enter a question into the first text field
-2. Press the 'Get your result' button
+2. Press the 'Get my prediction' button
 3. Your prediction will appear in the second text field
 4. Repeat the steps above for mutliple questions
 

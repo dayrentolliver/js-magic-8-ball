@@ -6,3 +6,17 @@ body{
 .container{
     background-color:rgb(188, 173, 230);
 }
+
+h1{
+    text-align: center;
+}
+form {
+    text-align: center;
+    padding: 5%;
+}
+
+#question, #answer{
+    height: 50px;
+    width: 250px;
+    text-align: center;
+}

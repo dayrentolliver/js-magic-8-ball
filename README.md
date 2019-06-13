@@ -21,5 +21,6 @@ Dayren Tolliver
 * How to return strings at random
 
 ### Future Features
+* Require question input before allowing submit
 * Add a 'Try Again' button
   * After clicking 'Try Again', the question area will clear

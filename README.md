@@ -19,3 +19,7 @@ Dayren Tolliver
 ### Things I learned:
 * How to manipulate the DOM
 * How to return strings at random
+
+### Future Features
+* Add a 'Try Again' button
+  * After clicking 'Try Again', the question area will clear

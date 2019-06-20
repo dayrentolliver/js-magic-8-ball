@@ -8,6 +8,7 @@ body{
     background-color:rgb(188, 173, 230);    
     margin-left: 5%;
     margin-right: 5%;
+    border: 2px solid black;
 }
 
 h1{
